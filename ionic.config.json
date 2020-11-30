@@ -1,0 +1,7 @@
+{
+  "name": "GrangeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
